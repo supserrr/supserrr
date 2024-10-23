@@ -2,3 +2,5 @@
 - 👀 I’m interested in many thingsss 😂
 - 🌱 I’m currently learning Svelte 
 - 📫 Contact me at sereinkincaid@gmail.com
+- 💻 Coding ninja by day, graphic design wizard by night.
+- 🎬 Cinematic dreamer, capturing life one frame at a time.
