@@ -15,19 +15,19 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=serein.serein" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=supserrr.supserrr" />
 </div>
 
 ---
 
 <h1 align="center">Hey there 👋, I'm Serein!</h1>
 
-### 👩‍💻 About Me
+### 👨‍💻 About Me
 
-🌱 Learning more about distributed systems & microservices  
-🎯 Passionate about using technology for social impact  
-📍 Based in Rwanda  
-💡 Always exploring new tech like Rust
+🌱 Currently diving deep into **distributed systems** & **microservices**  
+🎯 Passionate about using **technology for social impact**  
+📍 Based in **Rwanda**  
+🚀 Always exploring emerging tools — recently into **Rust**, **Serverless**, and **Infra-as-Code**
 
 ---
 
@@ -50,15 +50,14 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=serein&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serein&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=supserrr&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supserrr&layout=compact&theme=radical" height="180"/>
 </p>
 
+---
 
-###
+### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=supserrr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-
-###
