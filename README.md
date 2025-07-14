@@ -65,20 +65,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=supserrr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
----
-
-### 📌 Pinned Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supserrr&repo=collabbridge-backend)](https://github.com/supserrr/collabbridge-backend)
-
----
-
 ### ⚡ Coding Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=supserrr&theme=react-dark" />
