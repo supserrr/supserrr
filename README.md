@@ -24,11 +24,10 @@
 
 ### 👩‍💻 About Me
 
-🔭 I’m currently building scalable backend systems for creative platforms like **CollabBridge**  
 🌱 Learning more about distributed systems & microservices  
 🎯 Passionate about using technology for social impact  
 📍 Based in Rwanda  
-💡 Always exploring new tech like Rust, Kubernetes, and Serverless
+💡 Always exploring new tech like Rust
 
 ---
 
